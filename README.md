@@ -3,6 +3,7 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=qnhanhh&show_icons=true&bg_color=00000000"/>
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnhanhh&layout=compact"/>
 
+<br/>
 ## About meee 😚🤓
 Hi, I'm Quynh Anh, a third-year software engineering student at FPT University 🏫. I specialize in frontend development and I also have experience working as a ReactJS web developer for a Korean education technology company, where I was responsible for building and maintaining the UI of the applications.
 
@@ -10,6 +11,7 @@ On my Github profile, you can find some of the projects I've worked on 💻. I e
 
 Feel free to check out my Github repositories and get in touch if you have any questions or suggestions for collaboration 🎉🎉🎉.
 
+<br/>
 ## I love working with these 👩🏻‍💻
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
